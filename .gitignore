@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!JavaTest/src/main/**/out/
+!JavaTest/src/test/**/out/
 .kotlin
 
 ### Eclipse ###
@@ -13,8 +13,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+!JavaTest/src/main/**/bin/
+!JavaTest/src/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/
@@ -30,4 +30,4 @@ bin/
 .DS_Store
 
 ### test 제외 ###
-java-practice/src
+JavaTest

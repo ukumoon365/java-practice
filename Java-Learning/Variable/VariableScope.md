@@ -1,4 +1,7 @@
+# Variable Scope
 ![img.png](../images/img.png)
+```text
 ✅ 메소드 블록 전체에서 사용 되는 변수는 코드 첫머리에 선언
 
 ✅ 특정 블록 내에서 사용될 땐 블록 내부에서 선언
+```
