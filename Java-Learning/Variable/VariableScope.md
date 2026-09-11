@@ -1,5 +1,5 @@
 # Variable Scope
-![img.png](../images/img.png)
+![img.png](../images/Scope.png)
 ```text
 ✅ 메소드 블록 전체에서 사용 되는 변수는 코드 첫머리에 선언
 
