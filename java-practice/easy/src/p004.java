@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p4 {
+public class p004 {
     public static void main (String[] args) {
         // 합격 / 불합격
         // 1. 점수 입력

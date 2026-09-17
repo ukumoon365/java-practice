@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p3 {
+public class p003 {
     public static void main (String[] args) {
         // 홀짝 판별
         // 1. 정수 입력
