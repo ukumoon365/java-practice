@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p022 {
+public class p021 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // 직사각형 별 출력
