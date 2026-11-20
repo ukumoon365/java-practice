@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ㅔ077 {
+public class p077 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // 구간 a..b 나열
